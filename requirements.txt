@@ -1,0 +1,9 @@
+cryptography
+customtkinter
+fastapi
+httpx
+pandas
+python-multipart
+requests
+streamlit
+uvicorn
